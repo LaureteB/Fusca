@@ -33,13 +33,13 @@ body {
     align-self: center;
 }
 
-.textoh2 {
+.texto h2 {
     line-height: 2em;
     margin-bottom: 1.5em;
     text-align: center;
 }
 
-.textop {
+.texto p {
     line-height: 2em;
     margin-bottom: 1.5em;
 }
@@ -50,7 +50,7 @@ body {
     align-self: center;
 }
 
-.imagemimg {
+.imagem img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
